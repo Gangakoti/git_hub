@@ -5,3 +5,6 @@ resource "aws_key_pair" "pub_key" {
 }
 
 hgfgfg
+kjhfjdhghfd
+jjhffsd
+fdbdbgjf
