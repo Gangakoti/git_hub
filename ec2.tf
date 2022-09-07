@@ -8,3 +8,6 @@ resource "aws_instance" "ex" {
   servers = 3
 
 } */
+    
+  
+  ganga
